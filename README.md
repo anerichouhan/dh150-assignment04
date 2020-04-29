@@ -38,13 +38,12 @@ I opted for a remote user interview with particpirory observation. I framed a se
 
 **Interview Transcript** [here.]()
 
-**Interview Recording** [here.]()
+**Interview Recording** [here.](https://drive.google.com/file/d/19zA3NIxuY2o868ctnbUzocre9lluoWu-/view?usp=sharing)
 
 ### Reflection
 
 I learned a lot from the user conversation I had. I learned that in the way things currently work, the user's intention really matters in terms of discovering online content. If the user knows exactly what they are looking for, they may google it and find appropriate content. However, if they do not know whar they are looking for, they must face an overwhelming amount of information and naviagte it with little to know guidance or structure.
-
 I also understood the relative importance of factors like length, popularity, date, author, key mentions, etc. when it comes to a user choosing an article to read. 
-
 I understood that the user takes a different approach while seeking news vs seeking interesting reads, and incorporating these insights into the user experience would be crucial. 
+The user expressed the importance of categorization of information that the current TechCrunch website does not fully embody.
 
