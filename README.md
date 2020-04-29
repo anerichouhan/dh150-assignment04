@@ -36,7 +36,7 @@ I opted for a remote user interview with particpirory observation. I framed a se
 
 **Contextual Inquiry Questions** [here.](https://docs.google.com/document/d/1dgBQcsv9Nke8HzQ0SETjwtJdOe_M7d5dNhu9LOmIDks/edit?usp=sharing)
 
-**Interview Transcript** [here.]()
+**Interview Transcript** [here.](https://docs.google.com/document/d/13ft6Ay2HC54sZkmZsTwueJcfxWOrvhDBiCGFAizyuGI/edit?usp=sharing)
 
 **Interview Recording** [here.](https://drive.google.com/file/d/19zA3NIxuY2o868ctnbUzocre9lluoWu-/view?usp=sharing)
 
