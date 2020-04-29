@@ -1,6 +1,6 @@
 # dh150-assignment04
 
-#✅ Step 1: Specify the main design challenge
+✅ ##Step 1: Specify the main design challenge
 
 **What is the main activity your project would support the users in accomplishing?**
 
