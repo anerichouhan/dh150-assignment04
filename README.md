@@ -29,5 +29,4 @@ The users own smart phones or laptops, and enjoy reading and learning. Users do 
 Users may perform the activity of discovering and consuming content in a variety of contexts. Some may have a daily morning routine to consume content, some do so while commuting through public transport, some do so whenever they have blocks of free time during their day. Many rely on prompts from newsletters or other reminders to open up content and read their daily bit. Users could use laptops or cell phones to consume the content. 
 
 **What would the users do to complete that activity?**
-
-
+Users would go to the Techcrunch website and pick online articles from recommedations. The could also explore content easily through effective categorization of content. They would be able to interact with the content and save it to a personal library is they wish to do so.
