@@ -30,3 +30,14 @@ Users may perform the activity of discovering and consuming content in a variety
 
 **What would the users do to complete that activity?**
 Users would go to the Techcrunch website and pick online articles from recommedations. The could also explore content easily through effective categorization of content. They would be able to interact with the content and save it to a personal library is they wish to do so.
+
+### ✅ Step 3: Pick observation method(s)
+I opted for a remote user interview with particpirory observation. I framed a set of questions to understand the overall context, motivations, and behaviors of my target user. I also asked them to share their screen as I observed their interaction with online content. 
+
+**Contextual Inquiry Questions** [here.](https://docs.google.com/document/d/1dgBQcsv9Nke8HzQ0SETjwtJdOe_M7d5dNhu9LOmIDks/edit?usp=sharing)
+
+**Interview Transcript** [here.]()
+
+**Interview Recording** []()
+
+
